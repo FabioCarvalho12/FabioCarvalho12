@@ -28,6 +28,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioCarvalho12&layout=compact)
 
 </div><br>
+
 ### Hobbies
 
 - **Motos** 🏍️
