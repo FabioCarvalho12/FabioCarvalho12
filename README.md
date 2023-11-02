@@ -44,18 +44,18 @@
 
 ### Metas
 
-## Metas Profissionais
+#### Metas Profissionais
 - [ ] Fluencia em JavaScript
 - [ ] Ser um profissional de destaque em desenvolvimento web
 - [ ] Dominar todas as linguagens necessárias para o desenvolvimento web
 - [ ] Explorar constantemente novas tecnologias e linguagens de programação
 
-## Metas Educacionais
+#### Metas Educacionais
 - [ ] Aprender a trabalhar com Arduino
 - [ ] Concluir uma pós-graduação em Engenharia da Computação
 - [ ] Realizar um mestrado em Full-Stack em desenvolvimento web
 
-## Metas Pessoais
+#### Metas Pessoais
 - [ ] Viajar para o Japão e explorar suas principais cidades e atrações turísticas
 - [ ] Visitar as Pirâmides do Egito e desvendar os mistérios da civilização faraônica
 - [ ] Realizar um emocionante passeio de balão e apreciar a paisagem do alto
