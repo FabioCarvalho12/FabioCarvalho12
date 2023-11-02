@@ -1,4 +1,7 @@
-### Olá, Eu sou Fábio Carvalho 😎
+### Olá, Eu sou Fábio Carvalho  
+   <div style="display: inline-block; align:center;">
+    <img src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Homem programndo" height="300px" width="500">
+</div>
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/fabio.carvalho8)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fabiodacb/)
@@ -19,7 +22,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioCarvalho12&layout=compact)
 
 </div><br>
-
-![Snake animation](https://github.com/FabioCarvalho12/FabioCarvalho12/blob/output/github-contribution-grid-snake.svg)
 
 
