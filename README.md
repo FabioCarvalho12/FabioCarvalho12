@@ -28,5 +28,39 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FabioCarvalho12&layout=compact)
 
 </div><br>
+### Hobbies
+##### Lista dos meus hobbies é a seguinte:
+
+- **Motos** 🏍️
+- **Pesca** 🎣
+- **Call of Duty Mobile** 🎮
+- **Viagens** ✈️
+- **Dragon Ball** 🐉
+- **Harry Potter** 🧙🏻‍♂️
+- **Desenvolvimento Web** 👨🏻‍💻
+- **Ensinar** 👨🏻‍🏫
+
+### Metas
+
+## Metas Profissionais
+- [ ] Tornar-se fluente em JavaScript
+- [ ] Ser um profissional de destaque em desenvolvimento web
+- [ ] Dominar todas as linguagens necessárias para o desenvolvimento web
+- [ ] Explorar constantemente novas tecnologias e linguagens de programação
+
+## Metas Educacionais
+- [ ] Aprender a trabalhar com Arduino
+- [ ] Concluir uma pós-graduação em Engenharia da Computação
+- [ ] Realizar um mestrado em Full-Stack em desenvolvimento web
+
+## Metas Pessoais
+- [ ] Viajar para o Japão e explorar suas principais cidades e atrações turísticas
+- [ ] Visitar as Pirâmides do Egito e desvendar os mistérios da civilização faraônica
+- [ ] Realizar um emocionante passeio de balão e apreciar a paisagem do alto
+- [ ] Atravessar o continente de moto, explorando diferentes países e culturas
+- [ ] Descobrir os mistérios da Ilha de Páscoa, no Chile
+- [ ] Contribuir dando aulas para crianças carentes em uma ONG ou escola pública
+- [ ] Experimentar a adrenalina de um salto de paraquedas e sentir a queda livre
+
 
 
