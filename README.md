@@ -4,8 +4,9 @@
 ##### Sou um apaixonado por tecnologia e inovação, sempre buscando novos desafios e soluções criativas para os problemas do mundo.
 
   <div style="display: inline-block; align:center;">
-    <img src=https://camo.githubusercontent.com/4d9f5ecceb711eec6e2018f38a5677dc657c9738d4a65ba3b928c41c0a45b439/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Homem programndo" height="290px" width="477">
-</div>
+    <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+<br>
+  </div>
 
   
 
