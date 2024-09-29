@@ -4,7 +4,7 @@
 ##### Sou um apaixonado por tecnologia e inovação, sempre buscando novos desafios e soluções criativas para os problemas do mundo.
 
   <div style="display: inline-block; align:center;">
-    <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+    <img height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 <br>
   </div>
 
